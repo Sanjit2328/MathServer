@@ -135,7 +135,7 @@ def prismarea(request):
 ## urls.py:
 ```
 """
-URL configuration for jai project.
+URL configuration for EX project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.2/topics/http/urls/
